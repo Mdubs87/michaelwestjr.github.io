@@ -1,63 +1,80 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Mechanical Engineering
+      institution: Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Dissertation Topic: The Role of Functional Kinematic Hand Synergies in Object Manipulation."
+        - "Advisor: Neville Hogan"
+    
+    - title: M.S., Mechanical Engineering
+      institution: Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts
+      year: 2018 - 2020
+    
+    - title: B.S., Mechanical Engineering
+      institution: Yale University, New Haven, Connecticut
+      year: 2014 - 2018
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Researcher
+      institution: Newman Laboratory for Biomechanics & Human Rehabilitation, MIT
+      year: 2018 - 2014
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Exploring how kinematic analysis of the human hand can be used to estimate the complexity of a piano score.
+        - Collecting & analyzing data on human hand manipulation of complex objects & tools.
+        - Investigated how humans estimate hidden mechanical properties of another`s limbs simply by observing their motions.
+        - Conducted human subject experiment to analyze how humans control force during motion.
+    
+    - title: Robotic Design Intern
+      institution: Medtronic, North Haven, Connecticut
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+      - Designed & built the first prototype of an articulating endoscope to interface with a surgical robot, using Creo Parametric 3.0.
+      - Implemented the endoscopes controller model using Simuscape 2017.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Undergraduate Research Assistant
+      institution: Yale Biomechanics & Control Lab, Yale University
+      year: 2016 - 2017
+      description:
+        - Designed & built a 125-part saw guide to improve sternotomies & decrease complications stemming from sternal non-union.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Design Engineering Student
+      institution: Medical Device Design & Innovation, Yale University
+      year: 2016
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Undergraduate Research Assistant
+      institution: Social Robotics Laboratory Lab, Yale University
+      year: 2017 - 2018
+      description:
+        - Designed & built the interior & exterior components of a social robot`s articulating face to improve infant-robot interaction.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Mechanical Engineering Research Exhibition (MERE), Honorable Mention Best Overall Performance, MIT
+        - BAMIT Research SLAM, 2nd Place, Black Alumni of MIT (BAMIT)
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Takeda Fellowship, Massachusetts Institute of Technology
+    - year: 2021
+      items: 
+        - Ben Gold Fellowship, Massachusetts Institute of Technology
+    - year: 2020
+      items: 
+        - Ford Foundation Fellowship, Ford Foundation
+        - GEM University Associate Fellowship, Massachusetts Institute of Technology
+    - year: 2018
+      items: 
+        - GEM University Associate Fellowship, Massachusetts Institute of Technology
+        - Ford Foundation Fellowship Honorable Mention, Ford Foundation
+        - UCEM SLOAN Scholar, Massachusetts Institute of Technology
+        - OGE Diversity Fellowship, Massachusetts Institute of Technology
+    - year: 2017
+      items:
+      - Student Design Showcase, 3rd Place, Design of Medical Devices Conference
