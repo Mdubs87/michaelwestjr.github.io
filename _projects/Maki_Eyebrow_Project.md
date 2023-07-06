@@ -1,30 +1,32 @@
 ---
 layout: page
-title: Yale Social Robotics Laboratory
-description: I designed & built the interior & exterior components of a social robot’s articulating face to improve infant-robot interaction.
-img: assets/img/Maki_Robot.PNG
-importance: 4
+title: "To Move or Not to Move: Principal Curvatures of Articular Surfaces"
+img: assets/img/To_Move_or_Not_to_Move_FinalDesign.PNG
+importance: 2
 category: Undergraduate Projects
 ---
 
-In the summer of 2016 prior to my Junior year of college, I interned for Brian Scassellati’s Yale Social Robotics Laboratory, working on the Maki Expedition Project. Maki is a 3D printed robot being used as part of a study to explore whether or not infants could treat robots as social agents to aid in the acquisition of sign language. The researchers found that this study was not widely successful, possibly due to the lack of human qualities in Maki’s face. To address this issue, we decided to give Maki eyebrows that would move up and down to convey various facial expressions. Throughout the summer, I used the software program Solidworks extensively to model both the internal and external components of the robot. Using an Arduino kit programmed in C, I gave a live demonstration of my work. Over the course of the summer, I greatly improved many technical skills, specifically in CAD software and understanding of electromechanical systems. I successfully gave Maki articulating eyebrows.
+During my senior year at yale I was an undergraduate research assistant in the [Yale Biomechanics and Controls lab](https://mvlab.yale.edu/). While there I designed & conducted an experiment to produce a geometric theory that models limb movement using joint surface features.
 
-<!-- <div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="../../assets/video/Maki_1eyebrow.MP4" class="img-fluid rounded z-depth-1" controls=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="../../assets/video/Maki_2eyebrows.MP4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include figure.html path="assets/img/To_Move_or_Not_to_Move_FinalDesign.PNG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Example of the Maki Robot raising (left) one eyebrow and (right) both eyebrows.
-</div> -->
+    The final experimental set up is shown here. The three key principles are incorporated in this experimental set-up. The translation stage applies a translation shown by the red arrow. The load cell measures a force. Then, the rotation stage can be used to accurately rotate the joint substitute. Additionally, five free degrees of freedom are produced through the use of the XY planar stage, and the 2D rotation stage. It is important to note in the bottom left hand corner there is a new coordinate axis. This coordinate axis comes from the readings that the load cell takes, which will be important in the experimental results.
+</div>
 
-Below is a video recording of my final presentation. Skip to 7:28 to see the articulating eyebrows!
+Abstract -- When recreating species that no longer exist, paleontologists aim to put together bone structures to try to determine how that species may have moved. We aim to quantify their work by producing a geometric theory that can determine how a limb moves based on the surface geometry at its joint. Previous work has concluded that the movement in joints is determined by the surface geometry of adjoining bones and the attachment pattern of surrounding ligaments. However, we believe by producing a predictive geometric model we can determine joint displacement purely based on the principal curvatures of the articular surfaces of the joint. We aim to design an experiment that will allow us to predict movement capabilities at a joint based purely on the principal curvatures of the articular surfaces. To do this we have designed an experiment that will be used on a chicken knee bone. The experiment incorporates three key principles. First, we will apply a known displacement to one end of the bone. Second, we will measure a force at the other end. Third, we will rotate the joint about its neutral axis, and repeat displacement and measurements until we have data about all 360 degrees of the joint. With these three key principles, we can use Hooke’s Law to determine stiffness at a given orientation, and ultimately determine which directions are the soft and stiff directions of the bone. Afterwards, this data can be compared to CT scans of the joint, which will be used to create a geometrical relationship between surface curvature and displacement.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7uqN64ORB40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Below you can find a video of an example experiment:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASnV038SYHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Below is a video recording of a presentation of my work:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQRDHOyVlyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The powerpoint slides used in the above presentation are presented below:
+<iframe src="../../assets/pdf/To_Move_or_Not_to_Move_Principal_Curvatures_of_Articular_Surfaces_PPT.pdf" width="100%" height="600px"></iframe>
 
-<iframe src="../../assets/pdf/Maki_Eyebrow_Project.pdf" width="100%" height="600px"></iframe>
+A detailed report is also found below:
+<iframe src="../../assets/pdf/To_Move_or_Not_to_Move_Principal_Curvatures_of_Articular_Surfaces_Report.pdf" width="100%" height="600px"></iframe>
