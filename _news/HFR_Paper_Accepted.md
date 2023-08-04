@@ -1,5 +1,6 @@
 ---
 layout: post
+title: My first paper just got accepted!
 date: 2022-01-31 15:59:00-0400
 inline: true
 related_posts: false

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: My second paper was accepted to the PLOS Computational Biology journal!
 date: 2022-11-17 15:59:00-0400
 inline: true
 related_posts: false
