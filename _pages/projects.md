@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 nav: true
-nav_order: 2
+nav_order: 6
 display_categories: [Graduate Projects, Undergraduate Projects]
 horizontal: false
 ---
