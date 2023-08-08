@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first conference paper was accepted!
+title: My third paper was accepted!
 date: 2023-06-05 15:59:00-0400
 inline: true
 related_posts: false
