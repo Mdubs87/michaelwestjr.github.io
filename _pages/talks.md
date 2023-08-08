@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Find here some of my recorded research talks.
+description: Here you can find some of my recorded research talks.
 nav: true
 nav_order: 3
 ---

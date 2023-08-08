@@ -1,6 +1,6 @@
 ---
 layout: page
-title: adding articulating eyebrows to the Maki Robot
+title: Adding articulating eyebrows to the Maki Robot
 img: assets/img/Maki_Robot.PNG
 importance: 4
 category: Undergraduate Projects
