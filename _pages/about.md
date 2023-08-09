@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: PathInfoVPS_Fig1_GIF.png
+  image: headshot.png
   image_circular: false # crops the image to make it circular
   address: false
 
