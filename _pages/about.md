@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: false
+  image: headshot.png
   image_circular: false # crops the image to make it circular
   address: false
 
@@ -21,7 +21,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-<iframe src="assets/img/headshot2.jpg"  width="100%" height="600px"></iframe>
+<iframe src="assets/img/headshot2.png" scrolling="no" style=" width: 900px; height: 600px;  overflow: hidden;" ></iframe>
 
 Michael West is a sixth-year PhD Candidate in Mechanical Engineering at the Massachusetts Institute of Technology (MIT). His research seeks to better control algorithms for robots involved in rehabilitation, and dexterous manipulation. He has investigated human upper-limb motor control and human hand manipulation during tool-use and physical interaction. By introducing new methods of analyzing human motor control and exploiting old methods on new experimental paradigms, his work leads to new insights on human motor control and perception.
 
