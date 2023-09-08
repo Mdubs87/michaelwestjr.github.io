@@ -9,8 +9,6 @@ last_name: West Jr.
 email: amwestjr@mit.edu
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
   "Michael West Jr. -- PhD Candidate at MIT | Research Focus: Robotics, Controls, Human Physical Interaction, Dexterous Manipulation, and Rehabilitation"
-footer_text: >
-  
 keywords: Michael West, Aaron West, A. Michael West, A. Michael West Jr., Aaron Michael West Jr., MIT, Massachusetts Institute of Technology, Researcher, Controls, Robotics, Rehabiliation, Dexterous Manipulation, Human Motor Control, Neuroscience, Biomechanics, Physical Interaction, Sport  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
