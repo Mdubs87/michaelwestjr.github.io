@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Headshot.png
+  image: portrait_robots_portrait.jpg #Headshot.png
   image_circular: false # crops the image to make it circular
   address: false
 
