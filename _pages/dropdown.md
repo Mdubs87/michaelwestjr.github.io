@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 6
+title: presentations
+nav: true
+nav_order: 2
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Invited Talks
+      permalink: /InvitedTalks/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Paper Summaries
+      permalink: /PaperSummaries/
 ---
