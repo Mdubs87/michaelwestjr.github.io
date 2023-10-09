@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I participated in the TrailBlazers in Engineering program for future faculaty at Purdue.
+title: I participated in the TrailBlazers in Engineering program for future faculty at Purdue.
 date: 2023-07-24 15:59:00-0400
 inline: false
 related_posts: false
