@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: A. Michael West Jr. # the website title (if blank, full name will be used instead)
+title: A. Michael West Jr. | MIT PhD Candidate # the website title (if blank, full name will be used instead)
 first_name: A. Michael
 middle_name:
 last_name: West Jr.
 email: amwestjr@mit.edu
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
-  "Michael West Jr. Personal Website -- He's PhD Candidate at MIT and his research interests include robotics, controls, human physical interaction, dexterous manipulation, and rehabilitation"
-keywords: Michael West MIT, Michael West Jr MIT, Aaron West MIT, Michael West, Aaron West, A. Michael West, A. Michael West Jr., Aaron Michael West Jr., MIT, Massachusetts Institute of Technology #, Researcher, Controls, Robotics, Rehabilitation, Dexterous Manipulation, Human Motor Control, Neuroscience, Biomechanics, Physical Interaction, Sport  # add your own keywords or leave empty
+  "Personal Website of Michael West Jr., MIT PhD Candidate in Mechanical Engineering. -- His research interests include robotics, controls, human physical interaction, dexterous manipulation, and rehabilitation"
+keywords: Michael West MIT, Michael West Jr MIT, Aaron West MIT, Michael West, Aaron West, A. Michael West, A. Michael West Jr., Aaron Michael West Jr., MIT, Massachusetts Institute of Technology, Researcher, Controls, Robotics, Rehabilitation, Dexterous Manipulation, Human Motor Control, Neuroscience, Biomechanics, Physical Interaction, Sport  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦾💪🏿 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
