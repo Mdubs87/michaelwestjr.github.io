@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-My paper titled "The Study of Complex Manipulation via Kinematic Hand Synergies:
-The Effects of Data Pre-Processing" was accepted to the International Consortium for Rehabilitation Robotics (ICORR). I will be presenting this work in Singapore in September 2023.
+My paper titled ["The Study of Complex Manipulation via Kinematic Hand Synergies:
+The Effects of Data Pre-Processing"](https://ieeexplore.ieee.org/document/10304710) was accepted to the International Consortium for Rehabilitation Robotics (ICORR). I will be presenting this work in Singapore in September 2023.

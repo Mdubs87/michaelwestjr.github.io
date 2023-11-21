@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I attend the 2023 Institute for Teaching and Mentoring.
+title: I attended the 2023 Institute for Teaching and Mentoring.
 date: 2023-10-28 15:59:00-0400
 inline: false
 related_posts: false
