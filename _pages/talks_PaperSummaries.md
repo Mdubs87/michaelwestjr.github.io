@@ -7,8 +7,17 @@ nav: false
 nav_order: 3
 ---
 
+<h3>The Study of Complex Manipulation via Kinematic Hand Synergies: The Effects of Data Pre-Processing</h3>
+[[HTML](https://ieeexplore.ieee.org/document/10304710)] [<a href="../assets/pdf/The_Study_of_Complex_Manipulation_via_Kinematic_Hand_Synergies_The_Effects_of_Data_Pre-Processing.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J1Xp5Ekl6JQ?si=ZsMqyYlCII-4Ej-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+Abstract: The study of kinematic hand synergies through matrix decomposition techniques, such as singular value decomposition, supports the theory that humans might control a subspace of predefined motions during manipulation tasks. These subspaces are often referred to as synergies. However, different data pre-processing methods lead to quantitatively different conclusions about these synergies. In this work, we shed light on the role of data pre-processing on the study of hand synergies by analyzing both numerical simulation and real kinematic data from a complex manipulation task, i.e., piano playing. The results obtained suggest that centering the data, by removing the mean, appears to be the most appropriate preprocessing technique for studying kinematic hand synergies.
+
+<hr> <!-- Add a horizontal rule to separate the posts -->
+
 <h3>Dynamic Primitives Limit Human Force Regulation During Motion</h3>
-[[HTML](https://ieeexplore.ieee.org/abstract/document/9678084)] [<a href="../assets/pdf/Dynamic_Primitives_Limit_Human_Force_Regulation_During_Motion.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
+[[HTML](https://ieeexplore.ieee.org/document/9678084)] [<a href="../assets/pdf/Dynamic_Primitives_Limit_Human_Force_Regulation_During_Motion.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RRfWe9KVSDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
