@@ -4,7 +4,7 @@ permalink: /InvitedTalks/
 title: Invited Talks
 description: Here you can find some of my recorded research presentations.
 nav: false
-nav_order: 3
+nav_order: 2
 ---
 
 <h3>Exploring Human Performance: The Importance of Studying our Limitations</h3>
