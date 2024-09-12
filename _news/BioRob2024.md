@@ -11,6 +11,6 @@ Last week, I traveled to Heidelberg, Germany for the 10th IEEE International Con
 It was a wonderful experience to reconnect with old colleagues and meet some new. Moreover, I thoroughly enjoyed seeing the current state-of-the-art research. Our field is heading in some exciting directions!
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <iframe src="../../assets/img/BioRobPresentation1.JPG" scrolling="no" style="width: 500px; height: 374px; overflow: hidden;"></iframe>
-  <iframe src="../../assets/img/BioRobPresentation2.JPG" scrolling="no" style="width: 280px; height: 374px; overflow: hidden;"></iframe>
+  <iframe src="../../assets/img/BioRobPresentation1.jpg" scrolling="no" style="width: 500px; height: 374px; overflow: hidden;"></iframe>
+  <iframe src="../../assets/img/BioRobPresentation2.jpg" scrolling="no" style="width: 280px; height: 374px; overflow: hidden;"></iframe>
 </div>
