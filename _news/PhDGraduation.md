@@ -10,4 +10,4 @@ After 22 years of school and I’m finally #PhinisheD. I am immensely grateful t
 
 Here’s to a long life of learning and sharing that love of learning with others. Professor West coming soon! 
 
-<iframe src="../../assets/img/Graduation.jpg" scrolling="no" style=" width: 800px; height: 532px;  overflow: hidden;" ></iframe>
+<iframe src="../../assets/img/PhDGraduation.jpg" scrolling="no" style=" width: 800px; height: 532px;  overflow: hidden;" ></iframe>
