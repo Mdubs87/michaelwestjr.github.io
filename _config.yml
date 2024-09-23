@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr. Michael West Jr., PhD | MIT # the website title (if blank, full name will be used instead)
+title: Dr. Michael West Jr., PhD # the website title (if blank, full name will be used instead)
 first_name: A. Michael
 middle_name:
 last_name: West Jr.
-email: amwestjr@mit.edu
+email: awest36@jh.edu
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
   "Personal Website of Michael West Jr., MIT PhD Candidate in Mechanical Engineering. -- His research interests include robotics, controls, human physical interaction, dexterous manipulation, and rehabilitation"
-keywords: Dr. Michael West MIT, Dr. Michael West Jr MIT, Dr. Aaron West MIT, Dr. Michael West, Dr. Aaron West, Dr. A. Michael West, Dr. A. Michael West Jr., Dr. Aaron Michael West Jr., Michael West MIT, Michael West Jr MIT, Aaron West MIT, Michael West, Aaron West, A. Michael West, A. Michael West Jr., Aaron Michael West Jr., MIT, Massachusetts Institute of Technology, Researcher, Controls, Robotics, Rehabilitation, Dexterous Manipulation, Human Motor Control, Neuroscience, Biomechanics, Physical Interaction, Sport  # add your own keywords or leave empty
+keywords: Dr. Michael West JHU, Dr. Michael West Jr JHU, Dr. Aaron West JHU, Michael West JHU, Michael West Jr JHU, Aaron West JHU, Dr. Michael West MIT, Dr. Michael West Jr MIT, Dr. Aaron West MIT, Dr. Michael West, Dr. Aaron West, Dr. A. Michael West, Dr. A. Michael West Jr., Dr. Aaron Michael West Jr., Michael West MIT, Michael West Jr MIT, Aaron West MIT, Michael West, Aaron West, A. Michael West, A. Michael West Jr., Aaron Michael West Jr., MIT, JHU, Massachusetts Institute of Technology, Johns Hopkins, Johns Hopkins University, Researcher, Controls, Robotics, Rehabilitation, Dexterous Manipulation, Human Motor Control, Neuroscience, Biomechanics, Physical Interaction, Sport  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦾💪🏿 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
