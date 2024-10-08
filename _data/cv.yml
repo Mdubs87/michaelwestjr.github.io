@@ -5,12 +5,15 @@
       institution: Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts
       year: 2020 - 2024
       description:
-        - "Dissertation Topic: The Role of Functional Kinematic Hand Synergies in Object Manipulation."
+        - "Dissertation Title: All Models are Wrong, Simple Models Provide Insight: A Study of Human Manipulation"
         - "Advisor: Neville Hogan"
     
     - title: M.S., Mechanical Engineering
       institution: Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts
       year: 2018 - 2020
+      description:
+        - "Dissertation Title: Towards a non-invasive measurement of human motion, force, and impedance during a complex physical-interaction task: wire-harnessing"
+        - "Advisor: Neville Hogan"
     
     - title: B.S., Mechanical Engineering
       institution: Yale University, New Haven, Connecticut
@@ -19,12 +22,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Research Fellow
+      institution: Haptics and Medical Robotics (HAMR) Laboratory, Johns Hopkins University
+      year: 2024 - 2027
+      description:
+        - Conducting cutting-edge research on haptic feedback and its role in robotic manipulation tasks to advance technologies in rehabilitation, prosthetics, and surgical robotics. 
+        - Mentoring and advising PhD and master’s students on research methodologies, experimental design, and career development. 
+
     - title: Graduate Researcher
       institution: Newman Laboratory for Biomechanics & Human Rehabilitation, MIT
-      year: 2018 - 2014
+      year: 2018 - 2024
       description:
-        - Exploring how kinematic analysis of the human hand can be used to estimate the complexity of a piano score.
-        - Collecting & analyzing data on human hand manipulation of complex objects & tools.
+        - Explored how kinematic analysis of the human hand can be used to estimate the complexity of a piano score.
+        - Collected & analyzed data on human hand manipulation of complex objects & tools.
         - Investigated how humans estimate hidden mechanical properties of another`s limbs simply by observing their motions.
         - Conducted human subject experiment to analyze how humans control force during motion.
     
@@ -57,24 +67,34 @@
   contents:
     - year: 2023
       items: 
-        - Mechanical Engineering Research Exhibition (MERE), Honorable Mention Best Overall Performance, MIT
-        - BAMIT Research SLAM, 2nd Place, Black Alumni of MIT (BAMIT)
+        - Johns Hopkins University Provost’s Postdoctoral Fellowship Program (PPF) (<b>$100,880</b>)
+        - Office of Graduate Education Service Award, MIT Recognizing Individuals Supporting Equity (RISE) Awards
+        - title: Shirley Anne Jackson Award, MIT Ebony Affair test
+          contents: 
+            - Presented to the black graduate student who exemplifies the spirit of trailblazing leadership, academic excellence, and commitment to breaking barriers in their field of study.
+    - year: 2023
+      items: 
+        - 12th Place (out of 300+ Submissions) Best Poster Competition, Rehab Week
+        - Accenture Fellowship (<b>$98,349</b>)
+        - MIT Mechanical Engineering Research Exhibition (MERE), Honorable Mention Best Overall Performance (<b>$125</b>)
+        - Black Alumni of MIT (BAMIT) Research SLAM, 2nd Place (<b>$500</b>)
     - year: 2022
       items: 
-        - Takeda Fellowship, Massachusetts Institute of Technology
+        - Takeda Fellowship (<b>$94,789</b>)
     - year: 2021
       items: 
-        - Ben Gold Fellowship, Massachusetts Institute of Technology
+        - Ben Gold Fellowship (<b>$90,932.76</b>)
     - year: 2020
       items: 
-        - Ford Foundation Fellowship, Ford Foundation
-        - GEM University Associate Fellowship, Massachusetts Institute of Technology
+        - Black Graduate Student Association (BGSA) Excellence in Research Award, MIT Ebony Affair
+        - Ford Foundation Fellowship (<b>$81,000</b>)
+        - GEM University Associate Fellowship
     - year: 2018
       items: 
-        - GEM University Associate Fellowship, Massachusetts Institute of Technology
-        - Ford Foundation Fellowship Honorable Mention, Ford Foundation
-        - UCEM SLOAN Scholar, Massachusetts Institute of Technology
-        - OGE Diversity Fellowship, Massachusetts Institute of Technology
+        - GEM University Associate Fellowship
+        - Ford Foundation Fellowship Honorable Mention
+        - UCEM SLOAN Scholar, MIT
+        - OGE Diversity Fellowship, MIT
     - year: 2017
       items:
       - Student Design Showcase, 3rd Place, Design of Medical Devices Conference
