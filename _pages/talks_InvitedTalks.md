@@ -14,12 +14,16 @@ Abstract: An understanding of the underlying control strategies employed by huma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_HzFWXXycdQ?si=VI_uSXs5RBiJt0wZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
+<hr> <!-- Add a horizontal rule to separate the posts -->
+
 <h3>Mechanical Impedance: A Necessity in Both Human Motor Action and Human Motor Perception</h3>
 A research talk given to the Control Conclave at IIT Delhi on January 6th, 2023
 
 Abstract: An understanding of the underlying control strategy employed by humans is required to develop technology that interacts with humans (e.g. prosthetics, exoskeletons, human-robot collaboration, and robotic rehabilitation). However, at the present time, both the robotics and motor control communities are far from complete comprehension. Understanding the coupled relation between human motor action and motor perception, we conducted a separate experiment in each domain to enhance our understanding of the latent human neuromotor controller. In the first, we falsified the assumption that humans can directly control force by showing that subjects could not regulate force independent of motion due to mechanical impedance. In the second, we showed that an aspect of mechanical impedance is encoded in human motor perception; furthermore, this observation was robust. Thus, we conclude that when modeling a system that incorporates human interaction, one should take special consideration of the human’s mechanical impedance.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/krYA78Jk1Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+<hr> <!-- Add a horizontal rule to separate the posts -->
 
 <h3>Mechanical Impedance: A Key Component in Both Human Motor Action and Human Motor Perception</h3>
 A research talk given to the [Future Leaders in Mechanical and Aerospace Engineering: Celebrating Diversity and Innovation](https://sites.google.com/view/maefutureleaders) Seminar on March 10, 2021
